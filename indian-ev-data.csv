@@ -1,0 +1,51 @@
+id,Model,Manufacturer,Vehicle Type,Battery Capacity (kWh),Range per Charge (km),Charging Time,Price,Power (HP or kW),Top Speed (km/h),Year of Manufacture
+1,Aura 300 Plus,Ather Energy,Scooter,2.9,116,4.5,129000,6,80,2021
+2,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3,109000,5,80,2021
+3,Bajaj Chetak Electric,Bajaj Auto,Scooter,4,95,5,150000,4,60,2020
+4,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3,85000,3,60,2021
+5,Hero Electric Opto EV,Hero Motocorp,Scooter,2.2,75,3,75000,3,60,2021
+6,Tork T6X,Tork Motors,Bike,6.2,200,5,250000,25,100,2021
+7,Revolt RV400,Revolt Motors,Bike,3.2,150,4,150000,20,85,2021
+8,Bajaj Chetak Electric,Bajaj Auto,Scooter,4,95,5,150000,4,60,2020
+9,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000,6,80,2021
+10,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3,109000,5,80,2021
+11,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3,85000,3,60,2021
+12,Hero Electric Opto EV,Hero Motocorp,Scooter,2.2,75,3,75000,3,60,2021
+13,Tork T6X,Tork Motors,Bike,6.2,200,5,250000,25,100,2021
+14,Revolt RV400,Revolt Motors,Bike,3.2,150,4,150000,20,85,2021
+15,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000,6,80,2021
+16,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3,109000,5,80,2021
+17,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3,85000,3,60,2021
+18,Hero Electric Opto EV,Hero Motocorp,Scooter,2.2,75,3,75000,3,60,2021
+19,Tork T6X,Tork Motors,Bike,6.2,200,5,250000,25,100,2021
+20,Bajaj Chetak EV,Bajaj Auto,Scooter,4,146,5.5,145000,4,80,2021
+21,Ampere Reo,Ampere Vehicles,Scooter,3,100,3.5,80000,3,60,2021
+22,Urbanite X1,Electric Vehicle Co.,Scooter,2.5,100,3,75000,3,60,2021
+23,Joy e-Ride,Joy E-Bike,Bike,2.2,80,2.5,60000,2,50,2021
+24,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000,6,80,2021
+25,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3,109000,5,80,2021
+26,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3,85000,3,60,2021
+27,Revolt RV400,Revolt Motors,Bike,3.2,150,4,150000,20,85,2021
+28,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000,6,80,2021
+29,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3,109000,5,80,2021
+30,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3,85000,3,60,2021
+31,Joy E-Bike Urbanite X1,Electric Vehicle Co.,Bike,2.2,80,2.5,60000,2,50,2021
+32,Ampere Reo,Ampere Vehicles,Scooter,3,100,3.5,80000,3,60,2021
+33,Bajaj Chetak EV,Bajaj Auto,Scooter,4,146,5.5,145000,4,80,2021
+34,Urbanite X1,Electric Vehicle Co.,Scooter,2.5,100,3,75000,3,60,2021
+35,Ather 450X,Ather Energy,Scooter,2.9,116,4.5,149000,6,80,2021
+36,Pure EV Epluto 7G,Pure EV,Scooter,2.7,120,3,109000,5,80,2021
+37,Okinawa iPraise Pro,Okinawa Autotech,Scooter,2.5,100,3,85000,3,60,2021
+38,Revolt RV400,Revolt Motors,Bike,3.2,150,4,155000,21,85,2022
+39,Ather 500X,Ather Energy,Scooter,4,150,5,165000,7,90,2022
+40,Pure EV Epluto 8G,Pure EV,Scooter,3.5,140,3.5,120000,5,85,2022
+41,Okinawa iPraise Pro X,Okinawa Autotech,Scooter,3,120,3,95000,4,70,2022
+42,Joy E-Bike Urbanite X2,Electric Vehicle Co.,Bike,2.8,90,2.5,70000,3,60,2022
+43,Ampere Zeo,Ampere Vehicles,Scooter,3.5,120,4,90000,4,70,2022
+44,Bajaj Chetak EV Plus,Bajaj Auto,Scooter,4.5,160,6,160000,5,90,2022
+45,Urbanite X2,Electric Vehicle Co.,Scooter,3.2,130,4,110000,5,80,2022
+46,Ather 500X,Ather Energy,Scooter,4,150,5,165000,7,90,2022
+47,Pure EV Epluto 8G,Pure EV,Scooter,3.5,140,3.5,120000,5,85,2022
+48,Okinawa iPraise Pro X,Okinawa Autotech,Scooter,3,120,3,95000,4,70,2022
+49,Joy E-Bike Urbanite X3,Electric Vehicle Co.,Bike,2.9,85,2.5,75000,3,65,2022
+50,Ampere Zeo,Ampere Vehicles,Scooter,3.5,120
